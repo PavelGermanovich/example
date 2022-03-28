@@ -5,6 +5,7 @@ public class Demo {
     }
 
     private static void print() {
+        System.out.println("Second employee changes");
         System.out.println("First employee changes");
     }
 
