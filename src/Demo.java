@@ -13,6 +13,6 @@ public class Demo {
     }
 
     private static void print(String text) {
-
+        System.out.println("Second employee " + text);
     }
 }
