@@ -5,6 +5,6 @@ public class Demo {
     }
 
     private static void print() {
-        System.out.println("");
+        System.out.println("Second employee");
     }
 }
